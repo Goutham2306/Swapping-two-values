@@ -1,4 +1,9 @@
 # Swapping-two-values
+Name:Kandukuri Goutham
+
+Ref.No:23008975
+
+Dept:CSE(IoT)
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -31,7 +36,7 @@ b=c
 print("swapped numbers are",a,b)
 ```
 ## OUTPUT:
-
+![Alt text](image/Screenshot%202023-10-19%20204419.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
