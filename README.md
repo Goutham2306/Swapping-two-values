@@ -38,7 +38,7 @@ print("swapped numbers are",a,b)
 ## OUTPUT:
 ![Alt text](image/Screenshot%202023-10-19%20204419.png)
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the python for swapping of two values are successfully executed.
 
 
 
