@@ -18,7 +18,6 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
 ```python
 #Program to swap the values
 #Developed by: K.Goutham
